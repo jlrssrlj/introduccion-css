@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(177, 224, 4);
+}
+ul{
+    background-color: aqua;
+}
+ol{
+    background-color: blue;
+}
+#elemento-1{
+    color: red;
+    font-size: 3rem;
+}
